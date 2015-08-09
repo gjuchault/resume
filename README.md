@@ -1,10 +1,9 @@
 # Printing
 
-* Use IE.
-* Use local fonts or fontsquirell generated font
-* Remove borders using File -> Print -> Layout
-* Print colors and background images
-* Uncheck Auto-Adjust
-* Remove headers and foooters
-* Use custom zoom (75%)
+* Use Firefox.
+* Use system print
+* Empty header/footer
+* Set zoom factor to 73%
+* Print colors & backgrounds
+* Remove margins in about:config (print.)
 * Print
