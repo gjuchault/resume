@@ -203,12 +203,12 @@ header, .firstRow {
   }
 
   .contact p i.fa {
-    line-height: 50px;
+    line-height: 40px;
   }
 
   .contact p a {
     font-size: 14px;
-    line-height: 50px;
+    line-height: 40px;
     padding-left: 5px;
     text-align: right;
     width: auto;
@@ -228,14 +228,14 @@ header, .firstRow {
 @media (min-width: 1000px) {
   .contact p i.fa {
     display: inline-block;
-    line-height: 50px;
+    line-height: 40px;
     margin: 0 10px 0 0;
   }
 
   .contact p a {
     display: inline-block;
-    font-size: 16px;
-    line-height: 50px;
+    font-size: 15px;
+    line-height: 40px;
     text-align: right;
     width: 200px;
   }
