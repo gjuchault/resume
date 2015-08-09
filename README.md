@@ -1,9 +1,10 @@
-# Printing
+This is a repository for my CV.
 
-* Use Firefox.
-* Use system print
-* Empty header/footer
+## Print instructions
+
+Tested on FF 39.
+* Remove print margins on `about:config`
 * Set zoom factor to 73%
-* Print colors & backgrounds
-* Remove margins in about:config (print.)
+* Remove header/footer
+* Use system print dialog
 * Print
